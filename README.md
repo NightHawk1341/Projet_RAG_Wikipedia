@@ -1,4 +1,4 @@
-## Système de Génération Augmentée par Récupération (RAG) sur Wikipédia
+## Système de Génération Augmentée par Récupération (RAG) basé sur corpus Wikipédia
 Ce projet implémente un système complet de RAG (Retrieval-Augmented Generation) permettant d'interroger une base de connaissances constituée d'articles Wikipédia sur des villes. Le système combine une base de données vectorielle pour la recherche d'informations et un grand modèle de langage (LLM) pour la génération de réponses.
 
 ## Fonctionnalités
